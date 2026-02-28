@@ -16,6 +16,12 @@ A Claude Code skill for creating stunning, animation-rich HTML presentations —
 
 ## Installation
 
+### Auto-install via `skills` CLI
+
+```
+npx skills add zarazhangrui/frontend-slides
+```
+
 ### For Claude Code Users
 
 Copy the skill files to your Claude Code skills directory:
